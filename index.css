@@ -1,0 +1,43 @@
+body{
+  background-image: url(Fondo.jpg);
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  background-attachment: fixed;
+}
+
+h1{
+  text-align: center;
+}
+nav{
+  height: 42px;
+  background-color: cornfloweblue;
+}
+nav ul{
+  list-style: none;
+}
+nav ul li a{
+  float: left;
+  text-decoration: none;
+  color: #FA8072;
+  padding: 0px 40px;
+  text-align: rightr;
+  line-height: 42px;
+  height: 2;
+}
+img{
+  float: left;
+  width="50%";
+}
+p{
+  text-align: center;
+}
+
+  #footer {
+     position:fixed;
+     left:0px;
+     bottom:0px;
+     height:30px;
+     width:100%;
+     background:#FA8072;
+     text-align: center;
+  }
